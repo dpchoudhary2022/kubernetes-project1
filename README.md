@@ -1,5 +1,4 @@
-# docker-Java-kubernetes-project
-# Deploying Java Applications with Docker and Kubernetes
+
 
 # STEPS FOR DEPLOY JAVA APP BY DOCKER & KUBERNETES:-
 
@@ -117,3 +116,5 @@ stockmanager       NodePort    10.96.193.96     <none>        8030:30487/TCP   1
 # NOW copy/paste the public ip of node:31750 in browser for shopfront
 #                    public ip of node:32284/products  in browser for productcatalogue 
 #                    public ip of node:30487/stocks    in browser for stockmanager
+    
+############################################################################################################################
